@@ -1,6 +1,6 @@
 {
-  "multiplayer.player.joined": "§a[ + ] %s Joined",
-  "multiplayer.player.joined.renamed": "§a[ + ] %s (formerly known as %s) Joined",
+  "multiplayer.player.joined": "§a[ + ] %s",
+  "multiplayer.player.joined.renamed": "§a[ + ] %s (formerly known as %s)",
   "multiplayer.player.left": "§c[ - ] %s",
   "item.minecraft.egg": "White Egg",
   "enchantment.level.1": "1",
